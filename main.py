@@ -132,9 +132,9 @@ while True:
     else:
         print('Opción Invalida')
 
-"""
+'''
 TODO:
-- Abstraer más las funciones
-- Crear más validaciones
-- Agregar algo más gráfico
-"""
+- Abstraer más las funciones,
+- Crear más validaciones.
+- Agregar entorno gráfico más amigable.
+'''
